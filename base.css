@@ -47,7 +47,6 @@ table {
 	border-spacing: 0;
 }
 
-
 /* Center the container */
 #container {
   padding-top:50px;
@@ -59,4 +58,7 @@ table {
 canvas {
   background-color:black;
 
+}
+body {
+    background-color: black;
 }
